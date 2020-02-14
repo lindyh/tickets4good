@@ -21,12 +21,12 @@ html {
     color: #121313;
 }
 body {
-    background-color: black;
+    background-color: #F3C720;
 }
 
 #outer_wrapper {
     /*line-height: 1;*/
-    background: black;
+    background: #F3C720; /*background color change*/
     width: 960px;
     margin: 0 auto;
     height: 100%; }
